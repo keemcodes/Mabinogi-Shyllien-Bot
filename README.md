@@ -1,5 +1,5 @@
 # Mabinogi-Shyllien-Bot
-This bot could harvest Shyllien and Hillwen for days! Made using AutoHotkey.
+This bot could harvest Shyllien and Hillwen for days! Made using AutoHotkey. I developed this in 2016-2017
 
 This bot uses image detection with AutoHotkey!
 
